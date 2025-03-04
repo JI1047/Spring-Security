@@ -1,7 +1,7 @@
 # 🔐 Spring Security Login System
 
 ## 📖 프로젝트 소개
-Spring Security를 사용하여 간단한 로그인 및 권한 관리를 구현한 프로젝트입니다.
+Spring Security를 사용하여 간단한 로그인 및 권한 관리를 구현
 
 ## ⚙️ 기술 스택
 - **Backend**: Spring Boot, Spring Security
