@@ -34,7 +34,7 @@ Spring Security를 사용하여 간단한 로그인 및 권한 관리를 구현�
 
 
 📝 학습한 내용 정리
-Spring Security를 사용하여 로그인 및 권한 관리 구현
-BCrypt로 비밀번호 해싱 적용
-세션 관리 & 보안 기능 설정 (다중 로그인 제한, 세션 고정 공격 방지)
-**Spring Security의 SecurityFilterChain**을 활용한 커스텀 보안 설정
+- Spring Security를 사용하여 로그인 및 권한 관리 구현
+- BCrypt로 비밀번호 해싱 적용
+- 세션 관리 & 보안 기능 설정 (다중 로그인 제한, 세션 고정 공격 방지)
+- **Spring Security의 SecurityFilterChain**을 활용한 커스텀 보안 설정
